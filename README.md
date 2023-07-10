@@ -14,75 +14,82 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
 
-An instantly ready, full-featured online IDE for web development on any device
-with a browser. Enabling you to start new projects quickly and prototype
-rapidly. With CodeSandbox, you can create web apps, experiment with code, test
-ideas, and share creations easily.
+Welcome to the AIEN Talents, a platform that bridges the gap between talented software students and the opportunity to be absorbed by a leading software company. Our mission is to provide a dynamic and inclusive environment where students can showcase their skills, connect with industry professionals, and unlock exciting career opportunities.
 
-## Incoming Hackathons
+Talents is designed specifically for software students who possess a passion for coding, problem-solving, and innovation. Whether you're an undergraduate or a graduate student, this hackathon offers you a chance to demonstrate your talent and potential to some of the brightest minds in the industry.
 
-CodeSandbox consists of several separate servers, some of which are open
-sourced.
+## Talent Sandbox - Incoming Hackathons
 
-- Client: the web application
-- Server: the [Phoenix](https://github.com/phoenixframework/phoenix) API server
-- Nginx: Nginx config files
-- [Git Extractor](https://github.com/codesandbox/codesandbox-importers):
-  responsible for extracting the source from a GitHub repository
-- [CLI](https://github.com/codesandbox/codesandbox-importers/tree/master/packages/cli):
-  the CLI to upload a CodeSandbox project from your command line
+Talent Sandbox is an immersive software dev program for students to ideate, prototype and showcase their skillset.
 
-## Documentation
+1. Category: Frontend Development
+   - Idea: Interactive Data Visualization Dashboard
+     Link: [Interactive Data Visualization Dashboard](https://github.com/interactive-dashboard)
 
+2. Category: Backend Development
+   - Idea: Intelligent Chatbot with Natural Language Processing
+     Link: [Intelligent Chatbot with NLP](https://github.com/intelligent-chatbot)
+
+3. Category: Mobile App Development
+   - Idea: Fitness Tracking and Workout Planning Application
+     Link: [Fitness Tracking App](https://github.com/fitness-tracking-app)
+
+4. Category: Machine Learning
+   - Idea: Image Recognition for Object Detection and Classification
+     Link: [Image Recognition with ML](https://github.com/image-recognition-ml)
+
+5. Category: Cybersecurity
+   - Idea: Secure Password Manager with Encryption
+     Link: [Secure Password Manager](https://github.com/secure-password-manager)
+
+6. Category: Web Development
+   - Idea: Online Marketplace for Local Artisans
+     Link: [Online Artisan Marketplace](https://github.com/online-artisan-marketplace)
+
+7. Category: Internet of Things (IoT)
+   - Idea: Smart Home Automation System with Voice Control
+     Link: [Smart Home Automation](https://github.com/smart-home-automation)
+
+8. Category: Data Science
+   - Idea: Predictive Analytics for Stock Market Forecasting
+     Link: [Stock Market Predictive Analytics](https://github.com/stock-market-predictive)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To participate in the hackathon, please follow the steps below to complete your registration. Your **GitHub username** will serve as the primary identifier for your work on the project repository, so please ensure its accuracy.
 
-### Prerequisites
+1. **Access the Registration Form**: Click [here](registration-form-link) to access the online registration form.
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+2. **Provide Personal Information**: Fill in the required fields with your personal information, including your **name**, **email address**, and **educational institution**. Ensure that the information you provide is accurate and up to date.
 
-### Installation
+3. **Enter Your GitHub Username**: As the hackathon relies on GitHub for project submission and evaluation, please enter your **GitHub username** in the designated field. This will allow us to identify your work on the project repository.
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+4. **Share Your Programming Skills**: Indicate your programming skills and experience by selecting the relevant options provided. This will help us understand your background and match you with suitable projects.
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+5. **Submit Your Registration**: Once you have completed all the required fields, click the **Submit** button to send your registration form.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+6. **Confirmation Email**: Shortly after submitting your registration, you will receive a confirmation email at the provided email address. This email will serve as confirmation of your successful registration and will contain important information regarding the hackathon.
 
+## Find a project 
 
+1. **Choose a Project Repository**: Browse through the list of available project repositories and select the one you wish to work on. Each repository will have a unique identifier or link associated with it.
 
-<!-- USAGE EXAMPLES -->
-## Usage
+2. **Clone the Repository**: Use the Git version control system to clone the selected repository to your local machine. If you are not familiar with Git and how to clone a repository, you can find a helpful tutorial [here](git-tutorial-link) to get you started.
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+3. **Collaborate and Contribute**: Collaborate with your team members by pushing code changes, resolving issues, and adding new features to the repository. Communicate effectively with your team to coordinate efforts and ensure a smooth collaboration process.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+4. **Submission and Evaluation**: Follow the submission guidelines provided in the repository to submit your project once it is completed. The judges will evaluate the projects based on the established criteria and select the winners.
+
+5. **Stay Updated**: Keep an eye on your email inbox and our official communication channels for any updates, announcements, or additional requirements related to the hackathon. It is crucial to stay informed about any changes or instructions throughout the process.
+
+If you have any questions or encounter any issues during the registration process, please reach out to our support team at [support-email@example.com](mailto:support-email@example.com).
+
+We look forward to your participation in the hackathon and seeing your contributions on GitHub! Good luck!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -98,7 +105,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
@@ -187,7 +193,5 @@ Use this space to list resources you find helpful and would like to give credit 
 
 ## Thanks
 
-<a href="https://www.chromaticqa.com/"><img src="https://cdn-images-1.medium.com/letterbox/147/36/50/50/1*oHHjTjInDOBxIuYHDY2gFA.png?source=logoAvatar-d7276495b101---37816ec27d7a" width="120"/></a>
-
-Thanks to [Chromatic](https://www.chromaticqa.com/) for providing the visual
+Thanks to [AI Evolution Nexus](https://www.aien.tech) for providing the visual
 testing platform that helps us catch unexpected changes.
