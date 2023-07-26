@@ -14,9 +14,31 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
 
-Welcome to the AIEN Talents, a platform that bridges the gap between talented software students and the opportunity to be absorbed by a leading software company. Our mission is to provide a dynamic and inclusive environment where students can showcase their skills, connect with industry professionals, and unlock exciting career opportunities.
+**Organization Scope:**
+AIEN Talents is a dynamic and inclusive platform that bridges the gap between talented students with a passion for coding, problem-solving, and innovation, across various domains, and leading companies seeking exceptional talent. We strive to create an environment that goes beyond software development, encompassing a wide range of skills such as design, data analysis, business strategy, communication, and more. Our goal is to provide students with the opportunity to showcase their diverse talents, connect with industry professionals, and unlock exciting career prospects.
 
-Talents is designed specifically for software students who possess a passion for coding, problem-solving, and innovation. Whether you're an undergraduate or a graduate student, this hackathon offers you a chance to demonstrate your talent and potential to some of the brightest minds in the industry.
+**Hackathon Goals:**
+1. **Inclusivity:** Our hackathons aim to be inclusive and welcoming to students with a broad range of skills and expertise. Whether you're a software engineer, designer, data scientist, business analyst, or any other talent, this hackathon is a platform for you to shine.
+
+2. **Skill Demonstration:** Tech Quest' hackathons offer participants the chance to demonstrate their skills beyond just coding. Students can showcase their problem-solving abilities, creativity, critical thinking, teamwork, and domain-specific knowledge.
+
+3. **Industry Connection:** We believe in providing valuable networking opportunities for students. Our hackathons will connect participants with industry professionals, mentors, and recruiters from leading companies, fostering meaningful relationships.
+
+4. **Career Opportunities:** The ultimate goal is to unlock exciting career opportunities for students. Through this platform, participants will have a chance to impress potential employers and open doors to internships or full-time positions in leading software and non-software companies.
+
+5. **Learning and Growth:** AIEN Talents' hackathons will not only be about competition but also about learning and personal growth. We encourage participants to learn from each other, collaborate, and gain new insights from industry experts.
+
+6. **Cross-Disciplinary Collaboration:** We promote collaboration between students from different backgrounds and disciplines. Diverse teams often lead to innovative solutions and novel approaches to problem-solving.
+
+7. **Real-World Challenges:** The hackathons will be designed around real-world challenges faced by industries today. This ensures that the solutions presented by participants are relevant and impactful.
+
+8. **Community Building:** AIEN Talents aims to build a strong community of talented individuals who can support and inspire each other on their professional journeys.
+
+9. **Personal Development:** Besides technical skills, participants will have opportunities to enhance their communication, presentation, and project management abilities, which are valuable in any career path.
+
+10. **Fun and Creativity:** While hackathons are intense, we want participants to enjoy the process and let their creativity flow. We encourage a fun and supportive atmosphere for everyone involved.
+
+With this expanded scope and set of goals, AIEN Talents' hackathons can attract a diverse pool of talented students, nurture their skills, and open doors to exciting career paths beyond software development.
 
 ## Talent Sandbox - Incoming Hackathons
 
