@@ -14,8 +14,8 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
 
-**Organization Scope:**
-AIEN Talents is a dynamic and inclusive platform that bridges the gap between talented students with a passion for coding, problem-solving, and innovation, across various domains, and leading companies seeking exceptional talent. We strive to create an environment that goes beyond software development, encompassing a wide range of skills such as design, data analysis, business strategy, communication, and more. Our goal is to provide students with the opportunity to showcase their diverse talents, connect with industry professionals, and unlock exciting career prospects.
+**Tech Quests**
+is a dynamic and inclusive platform that bridges the gap between talented students with a passion for coding, problem-solving, and innovation, across various domains, and leading companies seeking exceptional talent. We strive to create an environment that goes beyond software development, encompassing a wide range of skills such as design, data analysis, business strategy, communication, and more. Our goal is to provide students with the opportunity to showcase their diverse talents, connect with industry professionals, and unlock exciting career prospects.
 
 **Hackathon Goals:**
 1. **Inclusivity:** Our hackathons aim to be inclusive and welcoming to students with a broad range of skills and expertise. Whether you're a software engineer, designer, data scientist, business analyst, or any other talent, this hackathon is a platform for you to shine.
@@ -61,55 +61,16 @@ If you have any questions or encounter any issues during the registration proces
 
 We look forward to your participation in the hackathon and seeing your contributions on GitHub! Good luck!
 
-1. Category: Frontend Development
-   - Idea: Interactive Data Visualization Dashboard
-     Link: [Interactive Data Visualization Dashboard](https://github.com/interactive-dashboard)
+1. Category: Mobile App
+   - Idea: Mobile Attendance System Project
+     Link: [Checkpoint-App]([https://github.com/interactive-dashboard](https://github.com/genus-sc/Checkpoint-App))
 
 2. Category: Backend Development
    - Idea: Intelligent Chatbot with Natural Language Processing
      Link: [Intelligent Chatbot with NLP](https://github.com/intelligent-chatbot)
 
-3. Category: Mobile App Development
-   - Idea: Fitness Tracking and Workout Planning Application
-     Link: [Fitness Tracking App](https://github.com/fitness-tracking-app)
-
-4. Category: Machine Learning
-   - Idea: Image Recognition for Object Detection and Classification
-     Link: [Image Recognition with ML](https://github.com/image-recognition-ml)
-
-5. Category: Cybersecurity
-   - Idea: Secure Password Manager with Encryption
-     Link: [Secure Password Manager](https://github.com/secure-password-manager)
-
-6. Category: Web Development
-   - Idea: Online Marketplace for Local Artisans
-     Link: [Online Artisan Marketplace](https://github.com/online-artisan-marketplace)
-
-7. Category: Internet of Things (IoT)
-   - Idea: Smart Home Automation System with Voice Control
-     Link: [Smart Home Automation](https://github.com/smart-home-automation)
-
-8. Category: Data Science
-   - Idea: Predictive Analytics for Stock Market Forecasting
-     Link: [Stock Market Predictive Analytics](https://github.com/stock-market-predictive)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
