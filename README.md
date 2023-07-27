@@ -40,7 +40,7 @@ AIEN Talents is a dynamic and inclusive platform that bridges the gap between ta
 
 With this expanded scope and set of goals, AIEN Talents' hackathons can attract a diverse pool of talented students, nurture their skills, and open doors to exciting career paths beyond software development.
 
-## Talent Sandbox - Incoming Hackathons
+## Hackathons
 
 Talent Sandbox is an immersive software dev program for students to ideate, prototype and showcase their skillset.
 
@@ -79,21 +79,7 @@ Talent Sandbox is an immersive software dev program for students to ideate, prot
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-## Getting Started
-
-To participate in the hackathon, please follow the steps below to complete your registration. Your **GitHub username** will serve as the primary identifier for your work on the project repository, so please ensure its accuracy.
-
-1. **Access the Registration Form**: Click [here](registration-form-link) to access the online registration form.
-
-2. **Provide Personal Information**: Fill in the required fields with your personal information, including your **name**, **email address**, and **educational institution**. Ensure that the information you provide is accurate and up to date.
-
-3. **Enter Your GitHub Username**: As the hackathon relies on GitHub for project submission and evaluation, please enter your **GitHub username** in the designated field. This will allow us to identify your work on the project repository.
-
-4. **Share Your Programming Skills**: Indicate your programming skills and experience by selecting the relevant options provided. This will help us understand your background and match you with suitable projects.
-
-5. **Submit Your Registration**: Once you have completed all the required fields, click the **Submit** button to send your registration form.
-
-6. **Confirmation Email**: Shortly after submitting your registration, you will receive a confirmation email at the provided email address. This email will serve as confirmation of your successful registration and will contain important information regarding the hackathon.
+# Getting Started
 
 ## Find a project 
 
