@@ -38,11 +38,28 @@ AIEN Talents is a dynamic and inclusive platform that bridges the gap between ta
 
 10. **Fun and Creativity:** While hackathons are intense, we want participants to enjoy the process and let their creativity flow. We encourage a fun and supportive atmosphere for everyone involved.
 
-With this expanded scope and set of goals, AIEN Talents' hackathons can attract a diverse pool of talented students, nurture their skills, and open doors to exciting career paths beyond software development.
+Attract a diverse pool of talented students, nurture their skills, and open doors to exciting career paths beyond software development.
 
-## Hackathons
+# Hackathons
+Ready to embark on an exhilarating journey of innovation, creativity, and boundless opportunities? Welcome to InnoTechVerse, where talented minds converge, and new horizons are explored.
 
-Talent Sandbox is an immersive software dev program for students to ideate, prototype and showcase their skillset.
+<!-- GETTING STARTED -->
+
+## Getting Started - Picking a project 
+
+1. **Choose a Project Repository**: Browse through the list of available project repositories and select the one you wish to work on. Each repository will have a unique identifier or link associated with it.
+
+2. **Clone the Repository**: Use the Git version control system to clone the selected repository to your local machine. If you are not familiar with Git and how to clone a repository, you can find a helpful tutorial [here](git-tutorial-link) to get you started.
+
+3. **Collaborate and Contribute**: Collaborate with your team members by pushing code changes, resolving issues, and adding new features to the repository. Communicate effectively with your team to coordinate efforts and ensure a smooth collaboration process.
+
+4. **Submission and Evaluation**: Follow the submission guidelines provided in the repository to submit your project once it is completed. The judges will evaluate the projects based on the established criteria and select the winners.
+
+5. **Stay Updated**: Keep an eye on your email inbox and our official communication channels for any updates, announcements, or additional requirements related to the hackathon. It is crucial to stay informed about any changes or instructions throughout the process.
+
+If you have any questions or encounter any issues during the registration process, please reach out to our support team at [support-email@example.com](mailto:support-email@example.com).
+
+We look forward to your participation in the hackathon and seeing your contributions on GitHub! Good luck!
 
 1. Category: Frontend Development
    - Idea: Interactive Data Visualization Dashboard
@@ -75,27 +92,6 @@ Talent Sandbox is an immersive software dev program for students to ideate, prot
 8. Category: Data Science
    - Idea: Predictive Analytics for Stock Market Forecasting
      Link: [Stock Market Predictive Analytics](https://github.com/stock-market-predictive)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-# Getting Started
-
-## Find a project 
-
-1. **Choose a Project Repository**: Browse through the list of available project repositories and select the one you wish to work on. Each repository will have a unique identifier or link associated with it.
-
-2. **Clone the Repository**: Use the Git version control system to clone the selected repository to your local machine. If you are not familiar with Git and how to clone a repository, you can find a helpful tutorial [here](git-tutorial-link) to get you started.
-
-3. **Collaborate and Contribute**: Collaborate with your team members by pushing code changes, resolving issues, and adding new features to the repository. Communicate effectively with your team to coordinate efforts and ensure a smooth collaboration process.
-
-4. **Submission and Evaluation**: Follow the submission guidelines provided in the repository to submit your project once it is completed. The judges will evaluate the projects based on the established criteria and select the winners.
-
-5. **Stay Updated**: Keep an eye on your email inbox and our official communication channels for any updates, announcements, or additional requirements related to the hackathon. It is crucial to stay informed about any changes or instructions throughout the process.
-
-If you have any questions or encounter any issues during the registration process, please reach out to our support team at [support-email@example.com](mailto:support-email@example.com).
-
-We look forward to your participation in the hackathon and seeing your contributions on GitHub! Good luck!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
