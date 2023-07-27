@@ -63,7 +63,7 @@ We look forward to your participation in the hackathon and seeing your contribut
 
 1. Category: Mobile App
    - Idea: Mobile Attendance System Project
-     Link: [Checkpoint-App]([https://github.com/interactive-dashboard](https://github.com/genus-sc/Checkpoint-App))
+     Link: [Checkpoint-App](https://github.com/genus-sc/Checkpoint-App)
 
 2. Category: Backend Development
    - Idea: Intelligent Chatbot with Natural Language Processing
