@@ -54,77 +54,40 @@ Join us in embracing the spirit of inclusivity and diversity as we embark on thi
 
 Attracting a diverse pool of talented students, nurture their skills, and open doors to exciting career paths beyond software development.
 
+<!-- GETTING STARTED WITH GITHUB-->
+
+## Github and Open Source
+
+To make the most out of this opportunity, we encourage you to learn GitHub, a powerful platform that fosters seamless collaboration and empowers software developers worldwide. 
+
+**Why Github ?**
+
+Here's why understanding GitHub is essential for online teamwork and the open-source process.
+
+**Empowering Online Teamwork:**
+
+GitHub is not just a version control system; it's a game-changer for online teamwork. As you collaborate with teammates during the hackathon, using GitHub will enable you to work cohesively on shared projects. The platform provides a centralized hub where all contributors can efficiently share, review, and track changes in the codebase. Embracing GitHub ensures smoother communication, minimizes conflicts, and accelerates your team's productivity.
+
+**Vital for Software Developers:**
+
+GitHub is a fundamental tool that every software developer should master. It has become an industry-standard for open-source development, showcasing your coding prowess and collaboration skills to potential employers. Understanding GitHub opens doors to contributing to open-source projects, connecting with the developer community, and building an impressive portfolio of your work.
+
+**Take the First Step - Explore Our GitHub Tutorial Video:**
+
+To help you get started on your GitHub journey, we've prepared an easy-to-follow tutorial video. This video will guide you through the basics, from creating your GitHub account to performing common version control actions like cloning repositories, making commits, and submitting pull requests. Whether you're new to GitHub or looking to refine your skills, this tutorial is perfect for all skill levels.
+
+**Click here to access the GitHub tutorial video**
+
+Don't miss out on the incredible opportunities that GitHub can unlock for you! Invest a little time in learning this invaluable tool, and you'll be equipped to thrive in our hackathon's collaborative environment and beyond. Happy learning, and we look forward to witnessing your contributions to our exciting projects!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- HACKATHONS -->
+
 ## Tech Quests / Hackathons
 Ready to embark on an exhilarating journey of innovation, creativity, and boundless opportunities? Join our Github Onine Hackathons, where talented minds converge, and new horizons are explored.
 
-<!-- GETTING STARTED -->
-
-**Getting Started - Picking a Project and Joining the Developers List**
-
-1. **Choose a Project Repository**: Browse through the list of available project repositories and select the one you wish to work on. Each repository will have a unique identifier or link associated with it.
-
-2. **Clone the Repository**: Use the Git version control system to clone the selected repository to your local machine. If you are not familiar with Git and how to clone a repository, you can find a helpful tutorial [here](git-tutorial-link) to get you started.
-
-3. **Collaborate and Contribute**: Collaborate with your team members by pushing code changes, resolving issues, and adding new features to the repository. Communicate effectively with your team to coordinate efforts and ensure a smooth collaboration process.
-
-4. **Join the Developers List**: To foster a sense of community and to recognize the contributions of each participant, we encourage you to include your details in the Developers List located in the repository. Here's how you can do it:
-
-   a. In the repository's root directory, navigate to the "Developers" or "Contributors" folder.
-
-   b. Open the "developers_list.md" file.
-
-   c. Add your name, GitHub username, and a brief description (optional) about yourself to the list. You can use the following format:
-
-   ```
-   - Name: John Doe
-     GitHub: johndoe
-     Description: Front-end enthusiast, passionate about UI/UX design.
-   ```
-
-   d. Save the changes to the file and commit them to your local repository.
-
-   e. Create a new branch (optional) and push your changes to the remote repository.
-
-   f. Submit a pull request (PR) with your modifications to the main branch of the project repository.
-
-5. **Submission and Evaluation**: Follow the submission guidelines provided in the repository to submit your project once it is completed. The judges will evaluate the projects based on the established criteria and select the winners.
-
-6. **Stay Updated**: Keep an eye on your email inbox and our official communication channels for any updates, announcements, or additional requirements related to the hackathon. It is crucial to stay informed about any changes or instructions throughout the process.
-
-By including their details in the Developers List, participants can showcase their contributions and become an integral part of the hackathon's collaborative community. This initiative aims to recognize and celebrate each participant's involvement and foster a sense of camaraderie among all contributors. Happy hacking!
-
-If you have any questions or encounter any issues during the registration process, please reach out to our support team at [support-email@example.com](mailto:support-email@example.com).
-
-We look forward to your participation in the hackathon and seeing your contributions on GitHub! Good luck!
-
-1. Category: Mobile App
-   - Idea: Mobile Attendance System Project
-     Link: [Checkpoint-App](https://github.com/genus-sc/Checkpoint-App)
-
-2. Category: Backend Development
-   - Idea: Intelligent Chatbot with Natural Language Processing
-     Link: [Intelligent Chatbot with NLP](https://github.com/intelligent-chatbot)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+**Click here to start a hackathon**
 
 <!-- LICENSE -->
 ## License
@@ -132,7 +95,6 @@ Don't forget to give the project a star! Thanks again!
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
@@ -143,7 +105,6 @@ Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.c
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
