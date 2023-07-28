@@ -10,38 +10,56 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
 
-**Tech Quests**
-is a dynamic and inclusive platform that bridges the gap between talented students with a passion for coding, problem-solving, and innovation, across various domains, and leading companies seeking exceptional talent. We strive to create an environment that goes beyond software development, encompassing a wide range of skills such as design, data analysis, business strategy, communication, and more. Our goal is to provide students with the opportunity to showcase their diverse talents, connect with industry professionals, and unlock exciting career prospects.
+<h1>About Our Skill Finding Program: Fostering Inclusive Innovation</h1>
 
-**Hackathon Goals:**
-1. **Inclusivity:** Our hackathons aim to be inclusive and welcoming to students with a broad range of skills and expertise. Whether you're a software engineer, designer, data scientist, business analyst, or any other talent, this hackathon is a platform for you to shine.
+Welcome to our Skill Finding Program! We strongly believe in the power of inclusivity and diversity to drive innovation and create impactful solutions. Our Skill Finding Program is designed to ensure that everyone feels welcome and empowered to participate, regardless of their skill level, background, or experience.
 
-2. **Skill Demonstration:** Tech Quest' hackathons offer participants the chance to demonstrate their skills beyond just coding. Students can showcase their problem-solving abilities, creativity, critical thinking, teamwork, and domain-specific knowledge.
+**Why Emphasize Inclusivity?**
 
-3. **Industry Connection:** We believe in providing valuable networking opportunities for students. Our hackathons will connect participants with industry professionals, mentors, and recruiters from leading companies, fostering meaningful relationships.
+Inclusivity is at the heart of our mission. We recognize that the most groundbreaking ideas emerge when individuals from different walks of life come together, bringing unique perspectives and skills to the table. By fostering an inclusive environment, we aim to break barriers and create opportunities for all participants to collaborate, learn, and grow during this exciting event.
 
-4. **Career Opportunities:** The ultimate goal is to unlock exciting career opportunities for students. Through this platform, participants will have a chance to impress potential employers and open doors to internships or full-time positions in leading software and non-software companies.
+**All Skill Levels Are Welcome:**
 
-5. **Learning and Growth:** AIEN Talents' hackathons will not only be about competition but also about learning and personal growth. We encourage participants to learn from each other, collaborate, and gain new insights from industry experts.
+Whether you're a seasoned coding expert or a novice just starting your programming journey, our Skill Finding Program is tailored to accommodate participants of all skill levels. We celebrate diversity in expertise and encourage the formation of well-rounded teams that can leverage a wide range of talents.
 
-6. **Cross-Disciplinary Collaboration:** We promote collaboration between students from different backgrounds and disciplines. Diverse teams often lead to innovative solutions and novel approaches to problem-solving.
+**Bringing People Together:**
 
-7. **Real-World Challenges:** The hackathons will be designed around real-world challenges faced by industries today. This ensures that the solutions presented by participants are relevant and impactful.
+Our Skill Finding Program is more than just a team formation process; it's a chance for you to connect with like-minded individuals who share your passion for technology and creativity. We provide a dedicated platform where participants can introduce themselves, highlight their skills, and find teammates with complementary abilities.
 
-8. **Community Building:** AIEN Talents aims to build a strong community of talented individuals who can support and inspire each other on their professional journeys.
+**Promoting Collaboration:**
 
-9. **Personal Development:** Besides technical skills, participants will have opportunities to enhance their communication, presentation, and project management abilities, which are valuable in any career path.
+Inclusivity and collaboration go hand in hand. Through our Skill Finding Program, we aim to foster an atmosphere of cooperation and support, where participants can freely exchange ideas, offer assistance, and work together harmoniously to tackle challenges and achieve their project goals.
 
-10. **Fun and Creativity:** While hackathons are intense, we want participants to enjoy the process and let their creativity flow. We encourage a fun and supportive atmosphere for everyone involved.
+Join us in embracing the spirit of inclusivity and diversity as we embark on this thrilling hackathon journey. Together, we can create an environment where every participant can shine, learn, and make a meaningful impact. Let's build something incredible together!
 
-Attract a diverse pool of talented students, nurture their skills, and open doors to exciting career paths beyond software development.
+## Hackathon Goals:
 
-# Hackathons
-Ready to embark on an exhilarating journey of innovation, creativity, and boundless opportunities? Welcome to InnoTechVerse, where talented minds converge, and new horizons are explored.
+1. **Skill Demonstration:** Tech Quest' hackathons offer participants the chance to demonstrate their skills beyond just coding. Students can showcase their problem-solving abilities, creativity, critical thinking, teamwork, and domain-specific knowledge.
+
+2. **Industry Connection:** We believe in providing valuable networking opportunities for students. Our hackathons will connect participants with industry professionals, mentors, and recruiters from leading companies, fostering meaningful relationships.
+
+3. **Career Opportunities:** The ultimate goal is to unlock exciting career opportunities for students. Through this platform, participants will have a chance to impress potential employers and open doors to internships or full-time positions in leading software and non-software companies.
+
+4. **Learning and Growth:** AIEN Talents' hackathons will not only be about competition but also about learning and personal growth. We encourage participants to learn from each other, collaborate, and gain new insights from industry experts.
+
+5. **Cross-Disciplinary Collaboration:** We promote collaboration between students from different backgrounds and disciplines. Diverse teams often lead to innovative solutions and novel approaches to problem-solving.
+
+6. **Real-World Challenges:** The hackathons will be designed around real-world challenges faced by industries today. This ensures that the solutions presented by participants are relevant and impactful.
+
+7. **Community Building:** AIEN Talents aims to build a strong community of talented individuals who can support and inspire each other on their professional journeys.
+
+8. **Personal Development:** Besides technical skills, participants will have opportunities to enhance their communication, presentation, and project management abilities, which are valuable in any career path.
+
+9. **Fun and Creativity:** While hackathons are intense, we want participants to enjoy the process and let their creativity flow. We encourage a fun and supportive atmosphere for everyone involved.
+
+Attracting a diverse pool of talented students, nurture their skills, and open doors to exciting career paths beyond software development.
+
+## Tech Quests / Hackathons
+Ready to embark on an exhilarating journey of innovation, creativity, and boundless opportunities? Join our Github Onine Hackathons, where talented minds converge, and new horizons are explored.
 
 <!-- GETTING STARTED -->
 
-## Getting Started - Picking a project 
+**Getting Started - Picking a Project and Joining the Developers List**
 
 1. **Choose a Project Repository**: Browse through the list of available project repositories and select the one you wish to work on. Each repository will have a unique identifier or link associated with it.
 
@@ -49,9 +67,31 @@ Ready to embark on an exhilarating journey of innovation, creativity, and boundl
 
 3. **Collaborate and Contribute**: Collaborate with your team members by pushing code changes, resolving issues, and adding new features to the repository. Communicate effectively with your team to coordinate efforts and ensure a smooth collaboration process.
 
-4. **Submission and Evaluation**: Follow the submission guidelines provided in the repository to submit your project once it is completed. The judges will evaluate the projects based on the established criteria and select the winners.
+4. **Join the Developers List**: To foster a sense of community and to recognize the contributions of each participant, we encourage you to include your details in the Developers List located in the repository. Here's how you can do it:
 
-5. **Stay Updated**: Keep an eye on your email inbox and our official communication channels for any updates, announcements, or additional requirements related to the hackathon. It is crucial to stay informed about any changes or instructions throughout the process.
+   a. In the repository's root directory, navigate to the "Developers" or "Contributors" folder.
+
+   b. Open the "developers_list.md" file.
+
+   c. Add your name, GitHub username, and a brief description (optional) about yourself to the list. You can use the following format:
+
+   ```
+   - Name: John Doe
+     GitHub: johndoe
+     Description: Front-end enthusiast, passionate about UI/UX design.
+   ```
+
+   d. Save the changes to the file and commit them to your local repository.
+
+   e. Create a new branch (optional) and push your changes to the remote repository.
+
+   f. Submit a pull request (PR) with your modifications to the main branch of the project repository.
+
+5. **Submission and Evaluation**: Follow the submission guidelines provided in the repository to submit your project once it is completed. The judges will evaluate the projects based on the established criteria and select the winners.
+
+6. **Stay Updated**: Keep an eye on your email inbox and our official communication channels for any updates, announcements, or additional requirements related to the hackathon. It is crucial to stay informed about any changes or instructions throughout the process.
+
+By including their details in the Developers List, participants can showcase their contributions and become an integral part of the hackathon's collaborative community. This initiative aims to recognize and celebrate each participant's involvement and foster a sense of camaraderie among all contributors. Happy hacking!
 
 If you have any questions or encounter any issues during the registration process, please reach out to our support team at [support-email@example.com](mailto:support-email@example.com).
 
