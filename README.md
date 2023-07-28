@@ -58,25 +58,25 @@ Attracting a diverse pool of talented students, nurture their skills, and open d
 
 ## Github and Open Source
 
-To make the most out of this opportunity, we encourage you to learn GitHub, a powerful platform that fosters seamless collaboration and empowers software developers worldwide. 
+🚀 To make the most out of this opportunity, we encourage you to learn GitHub, a powerful platform that fosters seamless collaboration and empowers software developers worldwide. 
 
-**Why Github ?**
+**Why Github?**
 
-Here's why understanding GitHub is essential for online teamwork and the open-source process.
+🔍 Here's why understanding GitHub is essential for online teamwork and the open-source process.
 
 **Empowering Online Teamwork:**
 
-GitHub is not just a version control system; it's a game-changer for online teamwork. As you collaborate with teammates during the hackathon, using GitHub will enable you to work cohesively on shared projects. The platform provides a centralized hub where all contributors can efficiently share, review, and track changes in the codebase. Embracing GitHub ensures smoother communication, minimizes conflicts, and accelerates your team's productivity.
+👥 GitHub is not just a version control system; it's a game-changer for online teamwork. As you collaborate with teammates during the hackathon, using GitHub will enable you to work cohesively on shared projects. The platform provides a centralized hub where all contributors can efficiently share, review, and track changes in the codebase. Embracing GitHub ensures smoother communication, minimizes conflicts, and accelerates your team's productivity.
 
 **Vital for Software Developers:**
 
-GitHub is a fundamental tool that every software developer should master. It has become an industry-standard for open-source development, showcasing your coding prowess and collaboration skills to potential employers. Understanding GitHub opens doors to contributing to open-source projects, connecting with the developer community, and building an impressive portfolio of your work.
+💼 GitHub is a fundamental tool that every software developer should master. It has become an industry-standard for open-source development, showcasing your coding prowess and collaboration skills to potential employers. Understanding GitHub opens doors to contributing to open-source projects, connecting with the developer community, and building an impressive portfolio of your work.
 
 **Take the First Step - Explore Our GitHub Tutorial Video:**
 
-To help you get started on your GitHub journey, we've prepared an easy-to-follow tutorial video. This video will guide you through the basics, from creating your GitHub account to performing common version control actions like cloning repositories, making commits, and submitting pull requests. Whether you're new to GitHub or looking to refine your skills, this tutorial is perfect for all skill levels.
+📹 To help you get started on your GitHub journey, we've prepared an easy-to-follow tutorial video. This video will guide you through the basics, from creating your GitHub account to performing common version control actions like cloning repositories, making commits, and submitting pull requests. Whether you're new to GitHub or looking to refine your skills, this tutorial is perfect for all skill levels.
 
-**Click here to access the GitHub tutorial video**
+👉 [Click here to access the GitHub tutorial video](github-tutorial-link)
 
 Don't miss out on the incredible opportunities that GitHub can unlock for you! Invest a little time in learning this invaluable tool, and you'll be equipped to thrive in our hackathon's collaborative environment and beyond. Happy learning, and we look forward to witnessing your contributions to our exciting projects!
 
@@ -85,9 +85,19 @@ Don't miss out on the incredible opportunities that GitHub can unlock for you! I
 <!-- HACKATHONS -->
 
 ## Tech Quests / Hackathons
-Ready to embark on an exhilarating journey of innovation, creativity, and boundless opportunities? Join our Github Onine Hackathons, where talented minds converge, and new horizons are explored.
+🚀 Ready to embark on an exhilarating journey of innovation, creativity, and boundless opportunities? 🌟 Join our GitHub Online Hackathons, where talented minds converge, and new horizons are explored. 🌈
 
-**Click here to start a hackathon**
+👉 [Click here to start a hackathon](hackathons.md)
+
+**Unleash Your Potential:**
+🧠 Our hackathons are designed to push the boundaries of your imagination. Whether you're a seasoned coder or a budding enthusiast, there's a place for you in our community. 💡 Embrace the challenge, collaborate with brilliant minds, and bring your ideas to life.
+
+👥 **A Community of Innovators:**
+🤝 At Tech Quests, we celebrate diversity and inclusion. 👫🌍 Our vibrant community spans the globe, connecting developers, designers, and dreamers. Together, we form a collective force driving positive change through technology. Join us to be a part of this inspiring journey.
+
+Let the adventure begin! 🎉
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
