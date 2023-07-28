@@ -76,7 +76,7 @@ Attracting a diverse pool of talented students, nurture their skills, and open d
 
 📹 To help you get started on your GitHub journey, we've prepared an easy-to-follow tutorial video. This video will guide you through the basics, from creating your GitHub account to performing common version control actions like cloning repositories, making commits, and submitting pull requests. Whether you're new to GitHub or looking to refine your skills, this tutorial is perfect for all skill levels.
 
-👉 [Click here to access the GitHub tutorial video](github-tutorial-link)
+👉 [Click here to access the GitHub tutorial video](https://www.youtube.com/watch?v=nhNq2kIvi9s)
 
 Don't miss out on the incredible opportunities that GitHub can unlock for you! Invest a little time in learning this invaluable tool, and you'll be equipped to thrive in our hackathon's collaborative environment and beyond. Happy learning, and we look forward to witnessing your contributions to our exciting projects!
 
