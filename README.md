@@ -49,7 +49,7 @@ Attracting a diverse pool of talented students, nurture their skills, and open d
 
 <!-- GETTING STARTED WITH GITHUB-->
 
-![Tech Quests Card](new-to-github.jpg)
+![Github img](new%to%github.jpg)
 
 ## Github and Open Source
 
