@@ -3,7 +3,7 @@
 
 &nbsp;
 
-<h1>About Our Skill Finding Program: Fostering Inclusive Innovation</h1>
+<h1>About Our Skill Finding Program </h1>
 
 Welcome to our Skill Finding Program! We strongly believe in the power of inclusivity and diversity to drive innovation and create impactful solutions. Our Skill Finding Program is designed to ensure that everyone feels welcome and empowered to participate, regardless of their skill level, background, or experience.
 
