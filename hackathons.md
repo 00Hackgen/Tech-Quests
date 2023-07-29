@@ -1,4 +1,4 @@
-![Tech Quests Card](large.png)
+![Tech Quests Card](hackimg.jpg)
 <a name="readme-top"></a>
 
 **Getting Started - Picking a Project and Joining the Developers List**
