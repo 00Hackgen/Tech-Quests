@@ -49,6 +49,8 @@ Attracting a diverse pool of talented students, nurture their skills, and open d
 
 <!-- GETTING STARTED WITH GITHUB-->
 
+![Tech Quests Card](new-to-github.jpg)
+
 ## Github and Open Source
 
 🚀 To make the most out of this opportunity, we encourage you to learn GitHub, a powerful platform that fosters seamless collaboration and empowers software developers worldwide. 
