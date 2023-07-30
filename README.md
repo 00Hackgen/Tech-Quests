@@ -99,7 +99,22 @@ Let the adventure begin! 🎉
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+**Read-Only GitHub Project: No Edits or Usage Allowed**
+
+**Project Description:**
+Welcome to our read-only GitHub project! This repository is designed to provide valuable information, code samples, or resources for reference purposes only. While we appreciate your interest in our work, we kindly request that you refrain from making any edits or using the contents in live projects.
+
+**Why Not Editable or Usable?**
+There are specific reasons for making this project read-only. It might contain sensitive information, intellectual property, or serve as an archive of historical data that should not be altered. By keeping it read-only, we ensure the preservation of its integrity and originality.
+
+**License and Usage:**
+In this case, a license does not apply in the traditional sense, as usage and editing are explicitly prohibited. Instead, the project is shared with the community for educational or informational purposes only. It falls under a "no-license" or "all rights reserved" status, meaning that no permissions are granted to use, modify, or distribute the content.
+
+**Contributions:**
+As the project is read-only, contributions, pull requests, and issues will not be accepted. We value your enthusiasm and encourage you to explore other open-source projects where your contributions are welcome.
+
+Thank you for respecting the read-only status of this GitHub project. If you have any questions or need further assistance, feel free to reach out to our team. Happy coding! 🚀🔧
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,9 +122,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Frederick on twitter - [handle @realfrederick](https://twitter.com/real_frederick)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -162,5 +176,3 @@ Use this space to list resources you find helpful and would like to give credit 
 
 ## Thanks
 
-Thanks to [AI Evolution Nexus](https://www.aien.tech) for providing the visual
-testing platform that helps us catch unexpected changes.
